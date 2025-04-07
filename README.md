@@ -1,4 +1,5 @@
 # QAM - Quadrature Amplitude Modulation
+- Xyruz Gomez, Sean Salanio, and Evitha Viola
 This is a mathematical model and a basic implementation of a basic communication system using MATLAB.
 Modulation that allows for the separation of two message signals at receiver output. It enables two DSBSC (double sideband supressed carrier).
 
